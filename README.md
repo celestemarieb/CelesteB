@@ -31,7 +31,7 @@ I also, usually, would quite like to know what's for dinner.
 
 ---
 
-#### Currently Working With  
+#### Current Tools 
 
 ---
 
@@ -43,7 +43,7 @@ Database : PostgreSQL | MongoDB | MongooseJS
 
 ---
 
-#### Currently Working On 
+#### Current Project
 
 ---
 
